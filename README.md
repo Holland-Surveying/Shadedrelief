@@ -4,8 +4,8 @@
 
 A shaded relief map of Big Hickory and the surrounding areas.
 
-![Caption of map](Layout1.jpg)     
+![Caption of map](Layout2.jpg)     
 *Caption of Map*
 
-[Link to high-resolution version](Layout1.pdf)     
+[Link to high-resolution version](Layout2.pdf)     
 Tucker Holland GEO 409 
